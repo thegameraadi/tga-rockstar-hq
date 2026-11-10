@@ -15,7 +15,11 @@
   "9CCRgtEcLHU",
   "vK_IL6V17Js",
   "INjHGpMRjRA",
-  "EiQEBYDox_k"
+  "EiQEBYDox_k",
+  "TIPlpDAsfWo",
+  "_yl5ELcmugI",
+  "AvBcfBrBl60",
+  "Rj2Jnbt-5p4"
  ],
  "site": [
   "media:39ak81277255o9",
@@ -302,11 +306,23 @@
   "page:/vi/media/screenshots",
   "page:/vi/media/videos",
   "page:/vi/music",
-  "page:/vi/only-in-leonida"
+  "page:/vi/only-in-leonida",
+  "media:89834o94713o21",
+  "media:an-extended-look-mobile",
+  "media:gtavi_pre_load",
+  "media:jason_lucia_rooftop_landscape",
+  "media:jason_lucia_rooftop_phone",
+  "media:jason_lucia_rooftop_portrait",
+  "media:jason_lucia_rooftop_square",
+  "media:jason_lucia_rooftop_tablet",
+  "media:jason_lucia_rooftop_ultrawide",
+  "media:pre-load",
+  "media:pre-load-mobile",
+  "news:89834o94713o21"
  ],
  "gnews": [],
  "fail": {
-  "youtube": 2,
+  "youtube": 0,
   "site": 0
  }
 }
